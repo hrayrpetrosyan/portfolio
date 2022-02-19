@@ -35,7 +35,7 @@ const Home: NextPage = () => {
           </div>
           <br />
           <div>
-            <a className={styles.link} href="https://www.linkedin.com/in/hrayr-petrosyan-web/">LinkedIn</a>
+            <a className={styles.link} href="https://www.linkedin.com/in/hrayr-petrosyan-dev/">LinkedIn</a>
           </div>
         </section>
       </main>
