@@ -12,6 +12,10 @@
   align-items: center;
 }
 
+.main section {
+  text-align: center;
+}
+
 .footer {
   display: flex;
   flex: 1;
@@ -101,6 +105,10 @@
 .logo {
   height: 1em;
   margin-left: 0.5rem;
+}
+
+.link {
+  font-size: 1.5em;
 }
 
 @media (max-width: 600px) {
