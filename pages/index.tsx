@@ -7,7 +7,7 @@ const Home: NextPage = () => {
   return (
     <div className={styles.container}>
       <Head>
-        <title>Senior Software Engineer</title>
+        <title>Hrayr Petrosyan</title>
         <meta name="google-site-verification" content="I73zKMn10P7oQhnOm5oqUqsGVgDU9yyhxEFe4XIsF34" />
         <meta name="description" content="Hey! I'm Hrayr Petrosyan. I'm a Senior Software Engineer (JS/TS/React/Node). I am here to enjoy my time by helping you and your business." />
         <link rel="icon" href="/favicon.ico" />
